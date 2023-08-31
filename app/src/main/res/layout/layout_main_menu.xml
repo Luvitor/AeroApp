@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".MainMenuActivity">
 
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="180dp"
+        android:layout_height="200dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:checkable="true"
+        android:id="@+id/menuAviao1"
+
 </androidx.constraintlayout.widget.ConstraintLayout>
